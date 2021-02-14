@@ -1,6 +1,6 @@
 # Buscador de Gifs
 
-Criando um buscador de gifs com flutter usando: 
+Criando um buscador de gifs usando: 
 <a target="#" href="https://developers.giphy.com/">GIPHY Developers - API</a>
 
 ## Projeto
