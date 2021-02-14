@@ -1,8 +1,8 @@
-# buscador_gifs
+# Buscador de Gifs
 
-A new Flutter application.
+Criando um buscador de gifs com flutter usando: 
+<a target="#" href="https://developers.giphy.com/">GIPHY Developers - API</a>
 
 ## Projeto
 
 ![alt text](https://github.com/Ellissandro/flutter-buscador-de-gifs/blob/master/images/buscado_gifs.png)
-![alt text](https://github.com/Ellissandro/flutter-buscador-de-gifs/blob/master/images/buscado_gifs_2.png)
